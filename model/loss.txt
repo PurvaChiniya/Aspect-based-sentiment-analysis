@@ -1,0 +1,6 @@
+Batch index = 10	Loss = 1.2250111788511275
+Batch index = 20	Loss = 0.13874215632677078
+Batch index = 30	Loss = 0.11299104765057563
+Batch index = 10	Loss = 0.09767806753516198
+Batch index = 20	Loss = 0.0971747487783432
+Batch index = 30	Loss = 0.08237757571041585
