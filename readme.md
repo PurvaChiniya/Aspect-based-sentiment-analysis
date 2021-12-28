@@ -4,3 +4,4 @@ Experiments are conducted on the [code](https://github.com/HSLCY/ABSA-BERT-pair)
 
 Due to computational limtations only first 1000 samples from train , 600 from val are used.
 This can be run on whole data as well without any major changes to the code.
+400 test data points
